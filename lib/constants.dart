@@ -43,3 +43,16 @@ const kBMITextStyle = TextStyle(
 const kBodyTextStyle = TextStyle(
   fontSize: 22.0,
 );
+
+const kBMIRange = TextStyle(
+  fontSize: 22.0,
+  fontWeight: FontWeight.bold,
+  color: Color(0xFF8D8E98),
+);
+
+const kBMIRangeNumber = TextStyle(
+  fontWeight: FontWeight.bold,
+  fontSize: 18,
+  color: Colors.white,
+  letterSpacing: 1.5,
+);
