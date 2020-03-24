@@ -2,6 +2,10 @@
 
 >A Simple and Beautiful Cross Platform BMI Calculator App made with Flutter
 ---
+
+![app sneek peek](https://github.com/krrajpurohit/BMI-Calculator/blob/master/static/bmi-calc.gif)
+
+---
 ## INSTALL FLUTTER
 > Read this article-[HOW TO INSTALL FUTTER](https://flutter.dev/docs/get-started/install)
 
