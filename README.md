@@ -1,16 +1,23 @@
-# bmi_calculator
+# BMI CALCULATOR
 
-A new Flutter application.
+>A Simple and Beautiful Cross Platform BMI Calculator App made with Flutter
+---
+## INSTALL FLUTTER
+> Read this article-[HOW TO INSTALL FUTTER](https://flutter.dev/docs/get-started/install)
 
-## Getting Started
+## TO RUN THIS APP LOCALLY
+> ##### NOTE:- MAKE SURE YOUR HAVE FLUTTER INSTALLED AND AN EMULATOR OR PHYSICAL MOBILE DEVICE IS CONNECTED TO YOUR MACHINE BEFORE MOVING FUTHER
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+### STEP 1: CLONE
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+```bash
+cd Desktop
+git clone https://github.com/krrajpurohit/BMI-Calculator.git
+```
+### STEP 2: FLUTTER RUN
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+cd BMI-CALCULATOR
+flutter run
+```
